@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\CSharp_72\bin\Debug\net5.0\CSharp_72.exe
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\CSharp_72\bin\Debug\net5.0\CSharp_72.deps.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\CSharp_72\bin\Debug\net5.0\CSharp_72.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\CSharp_72\bin\Debug\net5.0\CSharp_72.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\CSharp_72\bin\Debug\net5.0\CSharp_72.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\CSharp_72\bin\Debug\net5.0\ref\CSharp_72.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\CSharp_72\bin\Debug\net5.0\CSharp_72.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\CSharp_72\obj\Debug\net5.0\CSharp_72.csprojAssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\CSharp_72\obj\Debug\net5.0\CSharp_72.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\CSharp_72\obj\Debug\net5.0\CSharp_72.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\CSharp_72\obj\Debug\net5.0\CSharp_72.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\CSharp_72\obj\Debug\net5.0\CSharp_72.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\CSharp_72\obj\Debug\net5.0\CSharp_72.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\CSharp_72\obj\Debug\net5.0\ref\CSharp_72.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\CSharp_72\obj\Debug\net5.0\CSharp_72.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\CSharp_72\obj\Debug\net5.0\CSharp_72.genruntimeconfig.cache
