@@ -8,9 +8,9 @@ Montag:
 
 Dienstag:
 - Generics (fertig)
-- Events / EventHandler/ Actions 
+- Events / EventHandler/ Actions / Func (fertig)
 - Threading (fertig) 
-- TPL 
+- TPL (fertig)
 
 
 Mittwoch: 
@@ -19,3 +19,6 @@ Mittwoch:
 - Plugin-Pattern
 - Serialisierung 
 - Erweiterungsmethoden 
+
+- EntityFramework Core 
+- 

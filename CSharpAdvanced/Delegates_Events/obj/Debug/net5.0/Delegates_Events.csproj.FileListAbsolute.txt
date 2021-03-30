@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\Delegates_Events\bin\Debug\net5.0\Delegates_Events.exe
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\Delegates_Events\bin\Debug\net5.0\Delegates_Events.deps.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\Delegates_Events\bin\Debug\net5.0\Delegates_Events.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\Delegates_Events\bin\Debug\net5.0\Delegates_Events.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\Delegates_Events\bin\Debug\net5.0\Delegates_Events.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\Delegates_Events\bin\Debug\net5.0\ref\Delegates_Events.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\Delegates_Events\bin\Debug\net5.0\Delegates_Events.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\Delegates_Events\obj\Debug\net5.0\Delegates_Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\Delegates_Events\obj\Debug\net5.0\Delegates_Events.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\Delegates_Events\obj\Debug\net5.0\Delegates_Events.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\Delegates_Events\obj\Debug\net5.0\Delegates_Events.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\Delegates_Events\obj\Debug\net5.0\Delegates_Events.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\Delegates_Events\obj\Debug\net5.0\ref\Delegates_Events.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\Delegates_Events\obj\Debug\net5.0\Delegates_Events.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\Delegates_Events\obj\Debug\net5.0\Delegates_Events.genruntimeconfig.cache
