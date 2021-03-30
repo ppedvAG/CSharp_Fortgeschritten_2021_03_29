@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadMitParameter\bin\Debug\net5.0\ThreadMitParameter.exe
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadMitParameter\bin\Debug\net5.0\ThreadMitParameter.deps.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadMitParameter\bin\Debug\net5.0\ThreadMitParameter.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadMitParameter\bin\Debug\net5.0\ThreadMitParameter.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadMitParameter\bin\Debug\net5.0\ThreadMitParameter.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadMitParameter\bin\Debug\net5.0\ref\ThreadMitParameter.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadMitParameter\bin\Debug\net5.0\ThreadMitParameter.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadMitParameter\obj\Debug\net5.0\ThreadMitParameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadMitParameter\obj\Debug\net5.0\ThreadMitParameter.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadMitParameter\obj\Debug\net5.0\ThreadMitParameter.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadMitParameter\obj\Debug\net5.0\ThreadMitParameter.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadMitParameter\obj\Debug\net5.0\ThreadMitParameter.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadMitParameter\obj\Debug\net5.0\ref\ThreadMitParameter.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadMitParameter\obj\Debug\net5.0\ThreadMitParameter.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadMitParameter\obj\Debug\net5.0\ThreadMitParameter.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadPoolSample\bin\Debug\net5.0\ThreadPoolSample.exe
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadPoolSample\bin\Debug\net5.0\ThreadPoolSample.deps.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadPoolSample\bin\Debug\net5.0\ThreadPoolSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadPoolSample\bin\Debug\net5.0\ThreadPoolSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadPoolSample\bin\Debug\net5.0\ThreadPoolSample.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadPoolSample\bin\Debug\net5.0\ref\ThreadPoolSample.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadPoolSample\bin\Debug\net5.0\ThreadPoolSample.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadPoolSample\obj\Debug\net5.0\ThreadPoolSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadPoolSample\obj\Debug\net5.0\ThreadPoolSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadPoolSample\obj\Debug\net5.0\ThreadPoolSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadPoolSample\obj\Debug\net5.0\ThreadPoolSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadPoolSample\obj\Debug\net5.0\ThreadPoolSample.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadPoolSample\obj\Debug\net5.0\ref\ThreadPoolSample.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadPoolSample\obj\Debug\net5.0\ThreadPoolSample.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadPoolSample\obj\Debug\net5.0\ThreadPoolSample.genruntimeconfig.cache

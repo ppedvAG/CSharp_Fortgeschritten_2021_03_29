@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadsBeenden\bin\Debug\net5.0\ThreadsBeenden.exe
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadsBeenden\bin\Debug\net5.0\ThreadsBeenden.deps.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadsBeenden\bin\Debug\net5.0\ThreadsBeenden.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadsBeenden\bin\Debug\net5.0\ThreadsBeenden.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadsBeenden\bin\Debug\net5.0\ThreadsBeenden.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadsBeenden\bin\Debug\net5.0\ref\ThreadsBeenden.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadsBeenden\bin\Debug\net5.0\ThreadsBeenden.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadsBeenden\obj\Debug\net5.0\ThreadsBeenden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadsBeenden\obj\Debug\net5.0\ThreadsBeenden.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadsBeenden\obj\Debug\net5.0\ThreadsBeenden.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadsBeenden\obj\Debug\net5.0\ThreadsBeenden.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadsBeenden\obj\Debug\net5.0\ThreadsBeenden.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadsBeenden\obj\Debug\net5.0\ref\ThreadsBeenden.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadsBeenden\obj\Debug\net5.0\ThreadsBeenden.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadsBeenden\obj\Debug\net5.0\ThreadsBeenden.genruntimeconfig.cache

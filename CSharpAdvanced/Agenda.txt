@@ -6,15 +6,16 @@ Montag:
 
 
 
-Dienstag: 
-- Plugin-Pattern 
+Dienstag:
 - Generics
+- Events / EventHandler/ Actions 
 - Threading
 - TPL 
 
+
 Mittwoch: 
-- Events / EventHandler/ Actions / 
 - Linq / Lambda 
 - Reflections
+- Plugin-Pattern
 - Serialisierung 
 - Erweiterungsmethoden 
