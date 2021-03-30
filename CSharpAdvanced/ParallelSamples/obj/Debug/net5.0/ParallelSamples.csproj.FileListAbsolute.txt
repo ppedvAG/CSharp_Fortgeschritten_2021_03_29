@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ParallelSamples\bin\Debug\net5.0\ParallelSamples.exe
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ParallelSamples\bin\Debug\net5.0\ParallelSamples.deps.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ParallelSamples\bin\Debug\net5.0\ParallelSamples.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ParallelSamples\bin\Debug\net5.0\ParallelSamples.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ParallelSamples\bin\Debug\net5.0\ParallelSamples.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ParallelSamples\bin\Debug\net5.0\ref\ParallelSamples.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ParallelSamples\bin\Debug\net5.0\ParallelSamples.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ParallelSamples\obj\Debug\net5.0\ParallelSamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ParallelSamples\obj\Debug\net5.0\ParallelSamples.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ParallelSamples\obj\Debug\net5.0\ParallelSamples.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ParallelSamples\obj\Debug\net5.0\ParallelSamples.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ParallelSamples\obj\Debug\net5.0\ParallelSamples.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ParallelSamples\obj\Debug\net5.0\ref\ParallelSamples.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ParallelSamples\obj\Debug\net5.0\ParallelSamples.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ParallelSamples\obj\Debug\net5.0\ParallelSamples.genruntimeconfig.cache

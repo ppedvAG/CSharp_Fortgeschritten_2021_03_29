@@ -7,9 +7,9 @@ Montag:
 
 
 Dienstag:
-- Generics
+- Generics (fertig)
 - Events / EventHandler/ Actions 
-- Threading
+- Threading (fertig) 
 - TPL 
 
 
