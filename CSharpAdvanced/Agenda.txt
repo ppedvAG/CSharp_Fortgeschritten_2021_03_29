@@ -14,11 +14,13 @@ Dienstag:
 
 
 Mittwoch: 
-- Linq / Lambda 
+- async / await (fertig) 
 - Reflections
 - Plugin-Pattern
+- Linq / Lambda
 - Serialisierung 
 - Erweiterungsmethoden 
+- Operatoren
 
 - EntityFramework Core 
 - 
