@@ -16,7 +16,7 @@ namespace TaskContinueWithSample
                 //Console.WriteLine("T1 fertig");
             });
 
-            t1.ContinueWith(t => { Console.WriteLine("T1 Continue")});
+            t1.ContinueWith(t => { Console.WriteLine("T1 Continue"); });
             t1.ContinueWith(t => { Console.WriteLine("T1 OK"); }, TaskContinuationOptions.OnlyOnRanToCompletion);
             t1.ContinueWith(t => { Console.WriteLine($"T1 ERROR {t.Exception.Message}"); }, TaskContinuationOptions.OnlyOnFaulted);
         }

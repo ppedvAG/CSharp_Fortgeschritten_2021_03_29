@@ -13,3 +13,4 @@ C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\Delegates_Eve
 C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\Delegates_Events\obj\Debug\net5.0\ref\Delegates_Events.dll
 C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\Delegates_Events\obj\Debug\net5.0\Delegates_Events.pdb
 C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\Delegates_Events\obj\Debug\net5.0\Delegates_Events.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\Delegates_Events\obj\Debug\net5.0\Delegates_Events.csprojAssemblyReference.cache

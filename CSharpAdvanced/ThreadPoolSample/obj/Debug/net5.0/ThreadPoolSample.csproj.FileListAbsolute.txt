@@ -13,3 +13,4 @@ C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadPoolSam
 C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadPoolSample\obj\Debug\net5.0\ref\ThreadPoolSample.dll
 C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadPoolSample\obj\Debug\net5.0\ThreadPoolSample.pdb
 C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadPoolSample\obj\Debug\net5.0\ThreadPoolSample.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadPoolSample\obj\Debug\net5.0\ThreadPoolSample.csprojAssemblyReference.cache

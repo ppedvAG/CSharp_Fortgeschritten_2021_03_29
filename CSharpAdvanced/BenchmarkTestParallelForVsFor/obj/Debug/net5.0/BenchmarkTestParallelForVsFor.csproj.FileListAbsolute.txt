@@ -13,3 +13,4 @@ C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\BenchmarkTest
 C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\BenchmarkTestParallelForVsFor\obj\Debug\net5.0\ref\BenchmarkTestParallelForVsFor.dll
 C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\BenchmarkTestParallelForVsFor\obj\Debug\net5.0\BenchmarkTestParallelForVsFor.pdb
 C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\BenchmarkTestParallelForVsFor\obj\Debug\net5.0\BenchmarkTestParallelForVsFor.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\BenchmarkTestParallelForVsFor\obj\Debug\net5.0\BenchmarkTestParallelForVsFor.csprojAssemblyReference.cache

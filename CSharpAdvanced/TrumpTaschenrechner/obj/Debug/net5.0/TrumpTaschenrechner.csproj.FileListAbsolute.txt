@@ -9,3 +9,4 @@ C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\TrumpTaschenr
 C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\TrumpTaschenrechner\obj\Debug\net5.0\TrumpTaschenrechner.dll
 C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\TrumpTaschenrechner\obj\Debug\net5.0\ref\TrumpTaschenrechner.dll
 C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\TrumpTaschenrechner\obj\Debug\net5.0\TrumpTaschenrechner.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\TrumpTaschenrechner\obj\Debug\net5.0\TrumpTaschenrechner.csprojAssemblyReference.cache

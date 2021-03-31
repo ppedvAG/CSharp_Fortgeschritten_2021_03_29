@@ -13,3 +13,4 @@ C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\Parameterlose
 C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ParameterloserThread\obj\Debug\net5.0\ref\ParameterloserThread.dll
 C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ParameterloserThread\obj\Debug\net5.0\ParameterloserThread.pdb
 C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ParameterloserThread\obj\Debug\net5.0\ParameterloserThread.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ParameterloserThread\obj\Debug\net5.0\ParameterloserThread.csprojAssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\EinfacherTask\bin\Debug\net5.0\EinfacherTask.exe
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\EinfacherTask\bin\Debug\net5.0\EinfacherTask.deps.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\EinfacherTask\bin\Debug\net5.0\EinfacherTask.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\EinfacherTask\bin\Debug\net5.0\EinfacherTask.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\EinfacherTask\bin\Debug\net5.0\EinfacherTask.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\EinfacherTask\bin\Debug\net5.0\ref\EinfacherTask.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\EinfacherTask\bin\Debug\net5.0\EinfacherTask.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\EinfacherTask\obj\Debug\net5.0\EinfacherTask.csprojAssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\EinfacherTask\obj\Debug\net5.0\EinfacherTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\EinfacherTask\obj\Debug\net5.0\EinfacherTask.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\EinfacherTask\obj\Debug\net5.0\EinfacherTask.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\EinfacherTask\obj\Debug\net5.0\EinfacherTask.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\EinfacherTask\obj\Debug\net5.0\EinfacherTask.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\EinfacherTask\obj\Debug\net5.0\ref\EinfacherTask.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\EinfacherTask\obj\Debug\net5.0\EinfacherTask.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\EinfacherTask\obj\Debug\net5.0\EinfacherTask.genruntimeconfig.cache

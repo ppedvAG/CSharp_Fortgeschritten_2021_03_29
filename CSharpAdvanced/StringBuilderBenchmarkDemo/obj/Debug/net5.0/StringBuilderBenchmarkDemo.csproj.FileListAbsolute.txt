@@ -13,3 +13,4 @@ C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\StringBuilder
 C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\StringBuilderBenchmarkDemo\obj\Debug\net5.0\ref\StringBuilderBenchmarkDemo.dll
 C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\StringBuilderBenchmarkDemo\obj\Debug\net5.0\StringBuilderBenchmarkDemo.pdb
 C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\StringBuilderBenchmarkDemo\obj\Debug\net5.0\StringBuilderBenchmarkDemo.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\StringBuilderBenchmarkDemo\obj\Debug\net5.0\StringBuilderBenchmarkDemo.csprojAssemblyReference.cache

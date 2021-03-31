@@ -13,3 +13,4 @@ C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadMitPara
 C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadMitParameter\obj\Debug\net5.0\ref\ThreadMitParameter.dll
 C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadMitParameter\obj\Debug\net5.0\ThreadMitParameter.pdb
 C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadMitParameter\obj\Debug\net5.0\ThreadMitParameter.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\ThreadMitParameter\obj\Debug\net5.0\ThreadMitParameter.csprojAssemblyReference.cache

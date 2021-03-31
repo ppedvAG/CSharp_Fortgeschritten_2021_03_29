@@ -15,12 +15,15 @@ Dienstag:
 
 Mittwoch: 
 - async / await (fertig) 
-- Reflections
-- Plugin-Pattern
-- Linq / Lambda
-- Serialisierung 
-- Erweiterungsmethoden 
+- Reflections (fertig)
+- Plugin-Pattern (fertig) 
+- Linq / Lambda (fertig)
+- Anonyme Typen + dynamische Typen (fertig)
+
+
+- EntityFramework Core (fertig, leider is ef core in aktueller Version ausnahmsweise bugy)
+
+- Serialisierung (fertig)
+- Erweiterungsmethoden  (fertig) 
 - Operatoren
 
-- EntityFramework Core 
-- 

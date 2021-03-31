@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\TaskContinueWithSample\obj\Debug\net5.0\TaskContinueWithSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\TaskContinueWithSample\obj\Debug\net5.0\TaskContinueWithSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\TaskContinueWithSample\obj\Debug\net5.0\TaskContinueWithSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\TaskContinueWithSample\obj\Debug\net5.0\TaskContinueWithSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\TaskContinueWithSample\bin\Debug\net5.0\TaskContinueWithSample.exe
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\TaskContinueWithSample\bin\Debug\net5.0\TaskContinueWithSample.deps.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\TaskContinueWithSample\bin\Debug\net5.0\TaskContinueWithSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\TaskContinueWithSample\bin\Debug\net5.0\TaskContinueWithSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\TaskContinueWithSample\bin\Debug\net5.0\TaskContinueWithSample.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\TaskContinueWithSample\bin\Debug\net5.0\ref\TaskContinueWithSample.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\TaskContinueWithSample\bin\Debug\net5.0\TaskContinueWithSample.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\TaskContinueWithSample\obj\Debug\net5.0\TaskContinueWithSample.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\TaskContinueWithSample\obj\Debug\net5.0\ref\TaskContinueWithSample.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\TaskContinueWithSample\obj\Debug\net5.0\TaskContinueWithSample.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_03_29\CSharpAdvanced\TaskContinueWithSample\obj\Debug\net5.0\TaskContinueWithSample.genruntimeconfig.cache
